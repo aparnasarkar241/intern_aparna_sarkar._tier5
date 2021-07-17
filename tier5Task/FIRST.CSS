@@ -1,0 +1,142 @@
+.header{
+    color: whitesmoke;
+    background-color: #2d3234;
+    padding: 10px;
+    overflow: hidden;
+    text-align:left;
+    
+
+}
+
+.header a{
+
+    float: right;
+    font-size: 12px;
+    padding: 20px;
+    color: white;
+    text-align: center;
+    display: block;
+    
+}
+.header a.bloom{
+    float: left;
+    font-size: 40px;
+    font-weight: bold;
+    font-style: italic;
+}
+.headerLinks{
+    float: right;
+
+}
+
+
+.header a:hover{
+    background-color: rgb(106, 153, 137)
+    
+}
+
+.header a.home{
+    background-color: rgb(24, 212, 165);
+}
+
+.body{
+    font-size: x-large;
+    text-align: center;
+    
+    
+}
+
+span{
+    width: 40%;
+    background-color: rgb(18, 204, 157);
+    padding: 8px;
+    font-size: 22px;
+    color:whitesmoke;
+    text-align: center;
+    
+    
+}
+.port{
+    background-color: rgba(199, 201, 189, 0.747);
+    padding: 10px;
+    
+    
+    
+}
+img{
+    float: left;
+    padding-right: 10px;
+    
+
+}
+
+.pics{
+    display: flex;
+    margin-left: 70px;
+}
+.pFolio{
+
+
+    float: right;
+    margin-top: -20px;
+    width: 70%;
+    margin-left: 2px;
+    
+    
+}
+.picTxt{
+    margin-left: 450px;
+}
+.para{
+    font-size: xx-large;
+    background-color: rgb(94, 212, 173);
+    color: white;
+    padding: 10px;
+    
+    
+}
+footer{
+    background-color: rgb(48, 44, 44);
+    color: white;
+    padding: 20px;
+    margin-top: -2px;
+    
+    
+    
+}
+.fooot{
+    display: inline;
+    margin-top: -20px;
+    
+    
+}
+
+h4{
+    width: 90%;
+
+}
+.paras{
+    width: 45%;
+    font-size: 15px;
+}
+.footerrr{
+    float: right;
+    margin-top: -40px;
+    margin-right: 585px;
+    
+    
+    
+}
+.lastPara{
+
+    margin-top: -20px;
+    width: 45%;
+    float: right;
+    background-color: rgb(48, 44, 44);
+    font-size: 15px;
+
+
+}
+
+
+
